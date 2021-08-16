@@ -1,0 +1,9 @@
+KAFKA:
+  URL: 
+  TOPIC:
+MAIL:
+  FROM:
+  TO: 
+  PASSWORD: 
+  SMTPHOST: 
+  SMTPPORT: 
