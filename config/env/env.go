@@ -7,7 +7,7 @@ import (
 )
 
 type Env struct {
-	Kafka kafka `mapstructur"e="KAFKA"`
+	Kafka kafka `mapstructure="KAFKA"`
 	Mail  mail  `mapstructure="MAIL"`
 }
 
